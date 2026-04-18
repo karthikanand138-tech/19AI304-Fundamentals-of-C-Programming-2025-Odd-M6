@@ -452,4 +452,3 @@ int main() {
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-](https://github.com/Karthik2064/19AI304-Fundamentals-of-C-Programming-2025-Odd-M6.git)
